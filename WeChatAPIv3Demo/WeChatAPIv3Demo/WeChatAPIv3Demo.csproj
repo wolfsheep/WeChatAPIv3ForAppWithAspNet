@@ -248,9 +248,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AspNetCore.WeChatPayAPIv3\AspNetCore.WeChatPayAPIv3.csproj">
+    <ProjectReference Include="..\AspNetCore.WeChatPayAPIv3\AspNet.WeChatPayAPIv3.csproj">
       <Project>{1b4b7e1e-ca4b-495b-97fc-d0a92026f04d}</Project>
-      <Name>AspNetCore.WeChatPayAPIv3</Name>
+      <Name>AspNet.WeChatPayAPIv3</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

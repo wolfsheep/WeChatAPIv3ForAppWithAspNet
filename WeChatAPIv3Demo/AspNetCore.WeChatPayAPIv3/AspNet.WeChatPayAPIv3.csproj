@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AspNetCore.WeChatPayAPIv3</RootNamespace>
-    <AssemblyName>AspNetCore.WeChatPayAPIv3</AssemblyName>
+    <AssemblyName>AspNet.WeChatPayAPIv3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

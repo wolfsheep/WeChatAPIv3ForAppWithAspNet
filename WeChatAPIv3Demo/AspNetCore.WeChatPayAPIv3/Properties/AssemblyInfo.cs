@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("AspNetCore.WeChatPayAPIv3")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("AspNet.WeChatPayAPIv3")]
+[assembly: AssemblyDescription("为APP写的微信支付APIv3版本的.NET 接口，已集成接口：1.统一下单 2.查询订单 3.关闭订单 4.支付结果通知 5.申请退款 6.查询退款 7.退款结果通知")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AspNetCore.WeChatPayAPIv3")]
+[assembly: AssemblyCompany("Dawenyang")]
+[assembly: AssemblyProduct("AspNet.WeChatPayAPIv3")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
