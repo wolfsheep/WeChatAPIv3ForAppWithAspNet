@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChatAPIv3Demo", "WeChatAPIv3Demo\WeChatAPIv3Demo.csproj", "{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WeChatPayAPIv3", "AspNetCore.WeChatPayAPIv3\AspNet.WeChatPayAPIv3.csproj", "{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WeChatPayAPIv3", "AspNet.WeChatPayAPIv3\AspNet.WeChatPayAPIv3.csproj", "{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
