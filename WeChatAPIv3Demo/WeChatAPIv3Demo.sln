@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChatAPIv3Demo", "WeChatAPIv3Demo\WeChatAPIv3Demo.csproj", "{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.WeChatPayAPIv3", "AspNetCore.WeChatPayAPIv3\AspNetCore.WeChatPayAPIv3.csproj", "{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF3A42D-7B8A-4B0C-A5CB-6E694DD26450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4B7E1E-CA4B-495B-97FC-D0A92026F04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0499E2D6-C4EB-4900-8927-9BAB7C8047C4}
+	EndGlobalSection
+EndGlobal
